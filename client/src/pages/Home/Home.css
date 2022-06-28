@@ -1,0 +1,9 @@
+.btn-trash{
+    display: flex;
+    justify-content: center;
+    background: black;
+    color: black;
+}
+.item{
+  width: 1000px;
+}

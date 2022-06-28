@@ -1,0 +1,8 @@
+.card-products {
+   
+    margin: 0px;
+}
+.edit-delet{
+    display: flex;
+    justify-content:space-evenly ;
+}
